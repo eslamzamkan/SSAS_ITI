@@ -1,4 +1,5 @@
 Use Internet sales “Dataware housing”
+
 1-	Create Cube “Product Cube” that shows Product Qty over Years 
 a-	Use Product Dimension to show (Product ID,ProductName) columns
 b-	Use time dimension to show (CalenderYear) column 
